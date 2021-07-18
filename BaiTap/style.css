@@ -1,0 +1,32 @@
+/* Question 2 */
+.question{
+    margin-top: 50px;
+}
+.question__input{
+    display: flex;
+    flex-direction: column;
+
+    width: 30%;
+}
+
+.question__input #themSo{
+    margin: 20px 0px;
+    width: 30%;
+}
+
+.inMang{
+    /* display: none; */
+}
+
+
+.question__result{
+    margin: 20px 0;
+    border: 2px solid black;
+    width: 30%;
+}
+
+.result {
+    /* display: none; */
+}
+
+
